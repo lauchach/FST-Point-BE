@@ -1,1 +1,15 @@
-1
+
+- server.js
+- routes/
+  - productRoutes.js
+  - userRoutes.js
+  - authRoutes.js
+- controllers/
+  - productController.js
+  - userController.js
+  - authController.js
+- services/
+  - productService.js
+  - userService.js
+- middlewares/
+  - authMiddleware.js
