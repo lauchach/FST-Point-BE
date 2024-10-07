@@ -1,4 +1,4 @@
-
+RUN BY : node server.js
 - server.js
 - routes/
   - productRoutes.js
