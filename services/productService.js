@@ -1,7 +1,6 @@
 const userService = require('../services/userService');
 
     const user = userService.mockUser()
-    // const redeemedProduct =  userService.mockRedeemedProducts()
 
 const products = [
     { id: 1, name: 'Discount 10%', description: 'Get a 10% discount', points: 50, redeemedDate: '2024-10-01' },
